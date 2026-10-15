@@ -1,3 +1,5 @@
+#завдання із зірочкою
+
 Якщо виконати код lifecycleScope.launch {
     launch(ceh) { // Передаємо обробник сюди
         throw RuntimeException("Вкладений краш!")
